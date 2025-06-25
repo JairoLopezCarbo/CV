@@ -65,7 +65,7 @@
     ],
     "skills": ["Python", "C#", "C", "MySQL", "SolidWorks"],
     "languages": ["Castellano - Nativo", "Inglés - C1 (Certificado)", "Catalán - Nativo"],
-    "honors": ["Expresión Gráfica", "Informática 2", "Procesamiento de Señal", "Infraestructura de Redes"]
+    "honors": ["Expresión Gráfica", "Informática 2", "Procesamiento de Señal", "Infraestructura de Redes", "Circuitos Electrónicos y Sistemas de Alimentación", "Análisis y Dimensionado de Redes"]
   },
   "en": {
     "name": "Jairo López Carbó",
@@ -133,6 +133,6 @@
     ],
     "skills": ["Python", "C#", "C", "MySQL", "SolidWorks"],
     "languages": ["Spanish - Native", "English - C1 (Certified)", "Catalan - Native"],
-    "honors": ["Graphic Expression", "Computer Science 2", "Signal Processing", "Network Infrastructure"]
+    "honors": ["Graphic Expression", "Computer Science 2", "Signal Processing", "Network Infrastructure", "Electronic Circuits and Power Supply Systems", "Network Analysis and Sizing"]
   }
 }
